@@ -5,12 +5,95 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2013-10-18T10:33:12-04:00</updated>
+<updated>2013-10-18T10:44:36-04:00</updated>
 <id>/</id>
 <author>
   <name>Simon Tiu</name>
   <uri>/</uri>
   <email>simon@simontiu.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Disqus running and other good news!]]></title>
+  <link rel="alternate" type="text/html" href="/jekyll/blog/disqus-running" />
+  <id>/jekyll/blog/disqus-running</id>
+  <published>2013-09-12T00:00:00-04:00</published>
+  <updated>2013-09-12T00:00:00-04:00</updated>
+  <author>
+    <name>Simon Tiu</name>
+    <uri></uri>
+    <email>simon@simontiu.com</email>
+  </author>
+  <content type="html">&lt;p&gt;It&amp;#8217;s been pretty difficult to work on the website recently since I&amp;#8217;ve been at Deloitte University for training. It&amp;#8217;s an amazing facility. Anyways, I&amp;#8217;m really excited right now because not only did I finally get Disqus to work on my site, I also managed to:&lt;/p&gt;
+
+&lt;p&gt;1) Remote Map through Sublime Text
+2) Get Jekyll to watch automatically for changes in the server&lt;/p&gt;
+
+&lt;p&gt;These two things combined means I can finally just edit things on my laptop and see the changes immediately on the web. Yes!!&lt;/p&gt;
+
+&lt;p&gt;Well, it&amp;#8217;s 1:04 AM now and I still have massive amounts of work to do for my Deloitte Simulation Training. Adios!]&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/jekyll/blog/disqus-running&quot;&gt;Disqus running and other good news!&lt;/a&gt; was originally published by Simon Tiu at &lt;a href=&quot;&quot;&gt;SIMON&lt;/a&gt; on September 12, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Jekyll it is!]]></title>
+  <link rel="alternate" type="text/html" href="/jekyll/jekyll-is-it" />
+  <id>/jekyll/jekyll-is-it</id>
+  <published>2013-08-22T00:34:43-04:00</published>
+  <updated>2013-08-22T00:34:43-04:00</updated>
+  <author>
+    <name>Simon Tiu</name>
+    <uri></uri>
+    <email>simon@simontiu.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Well, I&amp;#8217;ve decided to go with &lt;code&gt;Jekyll&lt;/code&gt; for my blog. It&amp;#8217;s really the perfect solution, and it works will with bootstrap which is great. Since I&amp;#8217;ve been back to the US jetlag has been owning me so I&amp;#8217;ve actually had a bit of time to code since I&amp;#8217;m awake while nobody else is. I&amp;#8217;ll write more detailed posts later, for now, I&amp;#8217;m just going to try and get the site up.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/jekyll/jekyll-is-it&quot;&gt;Jekyll it is!&lt;/a&gt; was originally published by Simon Tiu at &lt;a href=&quot;&quot;&gt;SIMON&lt;/a&gt; on August 22, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Time to start a blog!]]></title>
+  <link rel="alternate" type="text/html" href="/time-to-start-a-blog" />
+  <id>/time-to-start-a-blog</id>
+  <published>2013-08-15T00:00:00-04:00</published>
+  <updated>2013-08-15T00:00:00-04:00</updated>
+  <author>
+    <name>Simon Tiu</name>
+    <uri></uri>
+    <email>simon@simontiu.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Well, it&amp;#8217;s been awhile since I&amp;#8217;ve tried to get back into the blogosphere. I decided building a blog would be a good way to dig up those web-programming skills. Since I&amp;#8217;m in China with pretty slow internet, I&amp;#8217;ll probably just do some research right now into how I want to make my blog. I&amp;#8217;m mostly looking for a platform that&amp;#8217;s responsive and serves static pages. After all, a blog doesn&amp;#8217;t need a full CMS right? We&amp;#8217;ll see!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/time-to-start-a-blog&quot;&gt;Time to start a blog!&lt;/a&gt; was originally published by Simon Tiu at &lt;a href=&quot;&quot;&gt;SIMON&lt;/a&gt; on August 15, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Testing this]]></title>
+  <link rel="alternate" type="text/html" href="/testing-summary" />
+  <id>/testing-summary</id>
+  <published>2013-08-15T00:00:00-04:00</published>
+  <updated>2013-08-15T00:00:00-04:00</updated>
+  <author>
+    <name>Simon Tiu</name>
+    <uri></uri>
+    <email>simon@simontiu.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Well, it&amp;#8217;s been awhile since I&amp;#8217;ve tried to get back into the blogosphere. I decided building a blog would be a good way to dig up those web-programming skills. Since I&amp;#8217;m in China with pretty slow internet, I&amp;#8217;ll probably just do some research right now into how I want to make my blog. I&amp;#8217;m mostly looking for a platform that&amp;#8217;s responsive and serves static pages. After all, a blog doesn&amp;#8217;t need a full CMS right? We&amp;#8217;ll see!&lt;/p&gt;
+
+&lt;p&gt;into the blogosphere. I decided building a blog would be a good way to dig up those web-programming skills. Since I&amp;#8217;m in China with pretty slow internet, I&amp;#8217;ll probably just do some research right now into how I want to make my blog. I&amp;#8217;m mostly looking for a platform that&amp;#8217;s responsive and serves static pages. After all, a blog doesn&amp;#8217;t need a full CMS right? We&amp;#8217;ll see!&lt;/p&gt;
+
+&lt;p&gt;into the blogosphere. I decided building a blog would be a good way to dig up those web-programming skills. Since I&amp;#8217;m in China with pretty slow internet, I&amp;#8217;ll probably just do some research right now into how I want to make my blog. I&amp;#8217;m mostly looking for a platform that&amp;#8217;s responsive and serves static pages. After all, a blog doesn&amp;#8217;t need a full CMS right? We&amp;#8217;ll see!&lt;/p&gt;
+
+&lt;p&gt;into the blogosphere. I decided building a blog would be a good way to dig up those web-programming skills. Since I&amp;#8217;m in China with pretty slow internet, I&amp;#8217;ll probably just do some research right now into how I want to make my blog. I&amp;#8217;m mostly looking for a platform that&amp;#8217;s responsive and serves static pages. After all, a blog doesn&amp;#8217;t need a full CMS right? We&amp;#8217;ll see!&lt;/p&gt;
+
+&lt;p&gt;into the blogosphere. I decided building a blog would be a good way to dig up those web-programming skills. Since I&amp;#8217;m in China with pretty slow internet, I&amp;#8217;ll probably just do some research right now into how I want to make my blog. I&amp;#8217;m mostly looking for a platform that&amp;#8217;s responsive and serves static pages. After all, a blog doesn&amp;#8217;t need a full CMS right? We&amp;#8217;ll see!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/testing-summary&quot;&gt;Testing this&lt;/a&gt; was originally published by Simon Tiu at &lt;a href=&quot;&quot;&gt;SIMON&lt;/a&gt; on August 15, 2013.&lt;/p&gt;</content>
+</entry>
 
 </feed>

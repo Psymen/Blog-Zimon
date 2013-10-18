@@ -2,7 +2,7 @@ title:            SIMON
 tagline:          Data scientist in training | China Watcher | Tech Enthusiast | Programmer
 description:      A website to record my life and try new projects.
 #Comment out url when working locally to resolve base urls correctly
-#url: http://jekyll.gtat.me
+url: http://www.simontiu.com
 
 # Owner/author information
 owner:

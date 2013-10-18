@@ -1,0 +1,9 @@
+---
+title: Version Control for Business
+layout: post
+comments: true
+---
+
+As a programmer, we use git. I knew that coming to Deloitte would be a shock in many ways. The biggest thing though is version control. As a programmer, we have a lot of tools at our disposal to do good version control. It’s a surprise to me that most of the business world is still mired in archaic systems of synchronization. If I want to update a powerpoint desk, I usually have to send the whole powerpoint to my coworker. Now this isn’t usually a big deal, because it’s just two of us right now and the powerpoints are small. But imagine a *team* of people separately working on a huge powerpoint. That’s a nightmare. The same problem, of course, exists when editing word documents or excel files. 
+
+What's 
